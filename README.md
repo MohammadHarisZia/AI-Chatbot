@@ -13,4 +13,4 @@ Algorithms:
 
 Functionalities:
 *	The system will be trained and tested using real data set using Deep NLP. 
-*	The predictive system will give feedback to user responses after being trained on the algorithm using the dataset.
+*	The predictive system will give feedback to user responses after being trained on the algorithm using the movie Dialogues dataset.
