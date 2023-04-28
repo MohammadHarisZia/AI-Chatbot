@@ -1,4 +1,4 @@
-Tools and Technologies:
+## Tools and Technologies:
 *	Python
 *	Tkinter
 *	Tensorflow
@@ -6,11 +6,11 @@ Tools and Technologies:
 *	Regular Expressions
 *	Deep natural language processing
 
-Algorithms:
+## Algorithms:
 *	Sequence to Sequence 
 *	Stochastic Gradient Descent
 *	Greedy Beam Search
 
-Functionalities:
+## Functionalities:
 *	The system will be trained and tested using real data set using Deep NLP. 
 *	The predictive system will give feedback to user responses after being trained on the algorithm using the movie Dialogues dataset.
